@@ -1,3 +1,3 @@
 # Dataset bundle
 
-这里保存五个数据集用于最终计算的节点对输入文件。
+Five datasets are saved for the final calculation and are used as the input files for the nodes.
